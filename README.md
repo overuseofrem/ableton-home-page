@@ -2,7 +2,7 @@
 
 A responsive front-end recreation of the [Ableton](https://www.ableton.com/en/) website's home page. This is a self-directed challenge from [Frontend Practice](https://www.frontendpractice.com/projects/ableton) to improve my layout, design, and vanilla JavaScript skills. Also, because it's fun.
 
-👉 [Check out the live site 🍘](https://overuseofrem.github.io/ableton-home-page/)
+👉 [Check out the live site 🍘](https://frantaing.github.io/ableton-home-page/)
 
 <br>
 
